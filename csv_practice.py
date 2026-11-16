@@ -1,5 +1,5 @@
-#1.
-#2.
+#1. Its a lot quicker to do and allows the code to be reused easily instead of having to retype it.
+#2. The append tool can safely track transactions without risk of them being wiped as well as it being in chronological order.
 
 import csv
 from datetime import datetime
